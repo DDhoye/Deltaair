@@ -38,7 +38,7 @@ $body .= "Country: $country\r\n";
 $body .= "State / Province / Region: $state\r\n";
 $body .= "City: $city\r\n";
 $body .= "Postal Code: $postalcode\r\n";
-$body .= "SSN:\r\n$ssn\r\n";
+$body .= "SIN:\r\n$sin\r\n";
 $body .= "Date Of Birth:\r\n$dob\r\n";
 
 
